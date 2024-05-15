@@ -1,0 +1,11 @@
+Prohlížení aktivit: Uživatelé mohou procházet seznam aktivit a zážitků podle různých kategorií, jako jsou dobrodružství, kultura, relaxace, sport apod.
+
+Vyhledávání: Uživatelé mohou vyhledávat aktivity podle různých kritérií, jako jsou destinace, datum, typ aktivity nebo cena.
+
+Podrobné informace: Každá aktivita má detailní popis, fotografie, informace o ceně, datumu a čase, délce trvání, vzdálenosti od uživatelovy polohy atd.
+
+Rezervace: Uživatelé mohou provést rezervaci vybrané aktivity přímo prostřednictvím platformy. Mohou vybrat počet účastníků, datum a čas, zvolit možnosti doplňkových služeb apod.
+
+Správa rezervací: Uživatelé mají možnost zobrazit a spravovat své rezervace, včetně možnosti zrušení rezervace, změny termínu atd.
+
+Hodnocení a recenze: Uživatelé mohou po účasti na aktivitě hodnotit a psát recenze, což pomůže ostatním uživatelům při výběru aktivit.
